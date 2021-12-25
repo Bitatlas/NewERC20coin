@@ -1,0 +1,1 @@
+# NewERC20coin
